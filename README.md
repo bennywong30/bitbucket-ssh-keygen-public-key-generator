@@ -3,7 +3,9 @@ bitbucket-ssh-keygen-public-key-generator.sh
 
 Auto configure user files to generate ssh public keys for BitBucket. 
 
-Download this bash script and run the script.
+ssh to your server.
+
+Download this bash script on your /home/USERNAME/ directory and run the script.
 
 ###     ./bitbucket-ssh-keygen-public-key-generator.sh
 
